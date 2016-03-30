@@ -1,0 +1,478 @@
+[
+  {
+    "input": "oreRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 12,
+    "outputSecondary": "minecraft:redstone:0",
+    "percentChance": 20
+  },
+  {
+    "input": "oreLapis",
+    "output": "minecraft:dye:4",
+    "qty": 8,
+    "outputSecondary": "minecraft:dye:4",
+    "percentChance": 20
+  },
+  {
+    "input": "rodBlaze",
+    "output": "minecraft:blaze_powder:0",
+    "qty": 4,
+    "outputSecondary": "minecraft:blaze_powder:0",
+    "percentChance": 15
+  },
+  {
+    "input": "cobblestone",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": "minecraft:gravel:0",
+    "percentChance": 10
+  },
+  {
+    "input": "materialBone",
+    "output": "minecraft:dye:15",
+    "qty": 8,
+    "outputSecondary": "minecraft:dye:15",
+    "percentChance": 10
+  },
+  {
+    "input": "oreQuartz",
+    "output": "minecraft:quartz:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:quartz:0",
+    "percentChance": 50
+  },
+  {
+    "input": "minecraft:clay:0",
+    "output": "minecraft:clay_ball:0",
+    "qty": 4,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreDiamond",
+    "output": "minecraft:diamond:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:diamond:0",
+    "percentChance": 5
+  },
+  {
+    "input": "oreEmerald",
+    "output": "minecraft:emerald:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:emerald:0",
+    "percentChance": 5
+  },
+  {
+    "input": "glowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 4,
+    "outputSecondary": "minecraft:glowstone_dust:0",
+    "percentChance": 5
+  },
+  {
+    "input": "oreCoal",
+    "output": "minecraft:coal:0",
+    "qty": 3,
+    "outputSecondary": "minecraft:diamond:0",
+    "percentChance": 1
+  },
+  {
+    "input": "minecraft:wool:32767",
+    "output": "minecraft:string:0",
+    "qty": 4,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "blockGlass",
+    "output": "minecraft:sand:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "gravel",
+    "output": "minecraft:flint:0",
+    "qty": 2,
+    "outputSecondary": "minecraft:flint:0",
+    "percentChance": 10
+  },
+  {
+    "input": "ingotIron",
+    "output": "basemetals:iron_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotGold",
+    "output": "basemetals:gold_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCopper",
+    "output": "basemetals:copper_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotLead",
+    "output": "basemetals:lead_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotSilver",
+    "output": "basemetals:silver_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotMercury",
+    "output": "basemetals:mercury_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreMercury",
+    "output": "basemetals:mercury_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotAdamantine",
+    "output": "basemetals:adamantine_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotNickel",
+    "output": "basemetals:nickel_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreCopper",
+    "output": "basemetals:copper_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreAdamantine",
+    "output": "basemetals:adamantine_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotElectrum",
+    "output": "basemetals:electrum_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotBronze",
+    "output": "basemetals:bronze_blend:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreColdiron",
+    "output": "basemetals:coldiron_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotStarsteel",
+    "output": "basemetals:starsteel_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreZinc",
+    "output": "basemetals:zinc_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotTin",
+    "output": "basemetals:tin_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotZinc",
+    "output": "basemetals:zinc_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotColdiron",
+    "output": "basemetals:coldiron_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreNickel",
+    "output": "basemetals:nickel_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotAquarium",
+    "output": "basemetals:aquarium_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotMithril",
+    "output": "basemetals:mithril_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreSilver",
+    "output": "basemetals:silver_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreIron",
+    "output": "basemetals:iron_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotSteel",
+    "output": "basemetals:steel_blend:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreStarsteel",
+    "output": "basemetals:starsteel_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreGold",
+    "output": "basemetals:gold_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotInvar",
+    "output": "basemetals:invar_blend:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreLead",
+    "output": "basemetals:lead_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreTin",
+    "output": "basemetals:tin_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotBrass",
+    "output": "basemetals:brass_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotLithium",
+    "output": "electricadvantage:li_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreLithium",
+    "output": "electricadvantage:li_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreSulfur",
+    "output": "electricadvantage:sulfur_powder:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotConductiveAlloy",
+    "output": "automation:material:10",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCobalt",
+    "output": "mysticalcrops:dustCobalt:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotArdite",
+    "output": "mysticalcrops:dustArdite:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotManyullyn",
+    "output": "mysticalcrops:dustManyullyn:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreArdite",
+    "output": "mysticalcrops:dustArdite:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreCobalt",
+    "output": "mysticalcrops:dustCobalt:0",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotPsi",
+    "output": "psi:material:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotLapis",
+    "output": "actuallyadditions:itemDust:4",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotDiamond",
+    "output": "actuallyadditions:itemDust:2",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotRedstone",
+    "output": "minecraft:redstone:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotEmerald",
+    "output": "actuallyadditions:itemDust:3",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotQuartz",
+    "output": "actuallyadditions:itemDust:5",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCoal",
+    "output": "basemetals:carbon_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotGlowstone",
+    "output": "minecraft:glowstone_dust:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCarbon",
+    "output": "basemetals:carbon_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotSulfur",
+    "output": "electricadvantage:sulfur_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotSulphur",
+    "output": "electricadvantage:sulfur_powder:0",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotDull",
+    "output": "evilcraft:dullDust:32767",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "ingotCorrupted",
+    "output": "soulshardstow:ItemMaterials:1",
+    "qty": 1,
+    "outputSecondary": "",
+    "percentChance": 0
+  },
+  {
+    "input": "oreQuartzBlack",
+    "output": "actuallyadditions:itemDust:7",
+    "qty": 2,
+    "outputSecondary": "",
+    "percentChance": 0
+  }
+]

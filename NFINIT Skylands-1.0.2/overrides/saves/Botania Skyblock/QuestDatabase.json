@@ -1,0 +1,1179 @@
+{
+  "editMode": true,
+  "hardcore": false,
+  "questDatabase": [
+    {
+      "questID": 0,
+      "name": "1.1 Craft a Sieve",
+      "description": "The first thing you will need is a Sieve from Ex Nihilo 2. Use it to sieve gravel to get rust which can be smelted into an iron ingot. You can get gravel by breaking cobblestone with a ex nihilo hammer                                                                                                                                                               ",
+      "isMain": true,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "exnihilo2:sieve_wood",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [
+            "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+            "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+            "ea2b34e9-819a-4d43-b590-990348bfe9f5"
+          ],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "exnihilo2:sieve_wood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [
+            {
+              "uuid": "0269faac-332b-41bb-b51b-2ee5f7017218",
+              "data": [
+                0
+              ]
+            },
+            {
+              "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+              "data": [
+                1
+              ]
+            },
+            {
+              "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+              "data": [
+                1
+              ]
+            },
+            {
+              "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+              "data": [
+                1
+              ]
+            }
+          ],
+          "taskID": "bq_standard:crafting"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "exnihilo2:hammer_wood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:cobblestone",
+              "Count": 64,
+              "OreDict": "cobblestone",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:redstone",
+              "Count": 16,
+              "OreDict": "dustRedstone",
+              "Damage": 0
+            },
+            {
+              "id": "morefood:item_juice_tomato",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 610588,
+          "claimed": true
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 602830,
+          "claimed": true
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 747261,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 1,
+      "name": "1.2 Get a cobble gen",
+      "description": "Now that you can get iron you will need to get a cobble gen, one option is the cobble gen from the mod Criss Cross, please craft one so you can continue or you can make any other vanilla cobble gen                                                                                ",
+      "isMain": true,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "crisscross:cobblestonegenerator",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [
+            "ea2b34e9-819a-4d43-b590-990348bfe9f5"
+          ],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "crisscross:cobblestonegenerator",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [
+            {
+              "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+              "data": [
+                1
+              ]
+            }
+          ],
+          "taskID": "bq_standard:crafting"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "betterbuilderswands:wandStone",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "actuallyadditions:itemFood",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "exnihilo2:hammer_stone",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 612780,
+          "claimed": true
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 612847,
+          "claimed": true
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 1058987,
+          "claimed": true
+        }
+      ],
+      "preRequisites": [
+        0
+      ]
+    },
+    {
+      "questID": 2,
+      "name": "1.3 Crucible",
+      "description": "Crucibles are used to get obsidian, feed it cobblestone to convert it to obsidian, but first you will need to source of power under it to start working, you can use place a torch under the crucible for it to work. ",
+      "isMain": true,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "exnihilo2:crucible",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [
+            "ea2b34e9-819a-4d43-b590-990348bfe9f5"
+          ],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": false,
+          "requiredItems": [
+            {
+              "id": "exnihilo2:crucible_raw",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:lava_bucket",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:torch",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 1062955,
+          "claimed": true
+        }
+      ],
+      "preRequisites": [
+        1
+      ]
+    },
+    {
+      "questID": 3,
+      "name": "1.4 Make a Nether portal",
+      "description": "The next step will be making a nether portal, please bring me a sample of the obsidian that you just made",
+      "isMain": true,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:obsidian",
+        "Count": 1,
+        "OreDict": "blockObsidian",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "minecraft:obsidian",
+              "Count": 1,
+              "OreDict": "blockObsidian",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:flint_and_steel",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        },
+        {
+          "rewards": [
+            {
+              "id": "minecraft:obsidian",
+              "Count": 4,
+              "OreDict": "blockObsidian",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [],
+      "preRequisites": [
+        2
+      ]
+    },
+    {
+      "questID": 4,
+      "name": "1.2.2 Sand",
+      "description": "Break gravel with a hammer to convert gravel into sand",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:sand",
+        "Count": 1,
+        "OreDict": "sand",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "minecraft:sand",
+              "Count": 8,
+              "OreDict": "sand",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:sand",
+              "Count": 32,
+              "OreDict": "sand",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 579408,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857645,
+          "claimed": true
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 892951,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 5,
+      "name": "2.0 Welcome to the Nether",
+      "description": "Get to the Nether",
+      "isMain": true,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:netherrack",
+        "Count": 1,
+        "OreDict": "netherrack",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [
+            "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+            "ea2b34e9-819a-4d43-b590-990348bfe9f5"
+          ],
+          "name": "nether",
+          "posX": 0,
+          "posY": 0,
+          "posZ": 0,
+          "dimension": -1,
+          "range": -1,
+          "visible": false,
+          "hideInfo": false,
+          "taskID": "bq_standard:location"
+        }
+      ],
+      "rewards": [],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 708941,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 708941,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 941706,
+          "claimed": false
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 6,
+      "name": "1.2.1 Gravel",
+      "description": "Break cobblestone with a hammer to convert cobblestone into gravel which can be used in a sieve to get rust",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:gravel",
+        "Count": 1,
+        "OreDict": "gravel",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "minecraft:gravel",
+              "Count": 4,
+              "OreDict": "gravel",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:gravel",
+              "Count": 32,
+              "OreDict": "gravel",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857580,
+          "claimed": true
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 528285,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 892795,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 7,
+      "name": "1.2.3 Volcanic Ash",
+      "description": "Break sand with a gravel to convert sand into Volcanic Dust",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "exnihilo2:dust",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "exnihilo2:dust",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "exnihilo2:dust",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 578224,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857705,
+          "claimed": true
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 893050,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 9,
+      "name": "1.1.1 Sapplings",
+      "description": "No Description",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:nether_star",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [],
+      "rewards": [],
+      "completed": [
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 545253,
+          "claimed": false
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 545253,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 731913,
+          "claimed": false
+        }
+      ],
+      "preRequisites": [
+        0
+      ]
+    },
+    {
+      "questID": 10,
+      "name": "2.1 Nether Ores",
+      "description": "No Description",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "nethermetals:nether_copper_ore",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [],
+      "rewards": [],
+      "completed": [
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 551246,
+          "claimed": false
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 551246,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 941706,
+          "claimed": false
+        }
+      ],
+      "preRequisites": [
+        5
+      ]
+    },
+    {
+      "questID": 11,
+      "name": "2.2 Nether Tools",
+      "description": "No Description",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "nethermetals:nether_Pickaxe",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [],
+      "rewards": [],
+      "completed": [
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 551823,
+          "claimed": false
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 551824,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 941706,
+          "claimed": false
+        }
+      ],
+      "preRequisites": [
+        5
+      ]
+    },
+    {
+      "questID": 12,
+      "name": "3.0 NeoTech",
+      "description": "No Description",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "neotech:electricFurnace",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [],
+      "rewards": [],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 558980,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 558980,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 633918,
+          "claimed": false
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 13,
+      "name": "3.1 Ender IO",
+      "description": "No Description",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:nether_star",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [],
+      "rewards": [],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 562459,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 562459,
+          "claimed": false
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 633918,
+          "claimed": false
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 14,
+      "name": "1.2.4 Barrel New Quest",
+      "description": "Craft a barrel which can be filled with water. After filling it with water right click it while holding a Volcanic ash to convert the water into a block of Clay",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "exnihilo2:barrel_wood",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 2
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "exnihilo2:barrel_wood",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [
+            {
+              "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+              "data": [
+                0
+              ]
+            },
+            {
+              "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+              "data": [
+                0
+              ]
+            }
+          ],
+          "taskID": "bq_standard:crafting"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:water_bucket",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 892493,
+          "claimed": true
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 824536,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857519,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 15,
+      "name": "1.2.5 Clay",
+      "description": "Right click a barrel filled with water to convert the water into Clay",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:clay",
+        "Count": 1,
+        "OreDict": "",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "minecraft:clay_ball",
+              "Count": 4,
+              "OreDict": "itemClay",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:clay",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 893116,
+          "claimed": true
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 826527,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857450,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 16,
+      "name": "1.2.6 Get Dirt",
+      "description": "Fill a barrel with sapplings to convert the sapplings into dirt",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:dirt",
+        "Count": 1,
+        "OreDict": "dirt",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "minecraft:dirt",
+              "Count": 4,
+              "OreDict": "dirt",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:grass",
+              "Count": 16,
+              "OreDict": "grass",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 838253,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857359,
+          "claimed": true
+        },
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 893231,
+          "claimed": true
+        }
+      ],
+      "preRequisites": []
+    },
+    {
+      "questID": 17,
+      "name": "2.1 Cobblestone",
+      "description": "No Description",
+      "isMain": false,
+      "isSilent": false,
+      "globalQuest": false,
+      "globalShare": true,
+      "autoClaim": false,
+      "repeatTime": -1,
+      "logic": "AND",
+      "taskLogic": "AND",
+      "icon": {
+        "id": "minecraft:cobblestone",
+        "Count": 1,
+        "OreDict": "cobblestone",
+        "Damage": 0
+      },
+      "tasks": [
+        {
+          "completeUsers": [],
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "consume": true,
+          "requiredItems": [
+            {
+              "id": "minecraft:cobblestone",
+              "Count": 64,
+              "OreDict": "cobblestone",
+              "Damage": 0
+            }
+          ],
+          "userProgress": [],
+          "taskID": "bq_standard:retrieval"
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:stone",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:iron_block",
+              "Count": 1,
+              "OreDict": "blockIron",
+              "Damage": 0
+            },
+            {
+              "id": "exnihilo2:ash",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item"
+        }
+      ],
+      "completed": [
+        {
+          "uuid": "ea2b34e9-819a-4d43-b590-990348bfe9f5",
+          "timestamp": 1059219,
+          "claimed": true
+        },
+        {
+          "uuid": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "timestamp": 841961,
+          "claimed": false
+        },
+        {
+          "uuid": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "timestamp": 857758,
+          "claimed": true
+        }
+      ],
+      "preRequisites": [
+        1
+      ]
+    }
+  ],
+  "questLines": [
+    {
+      "name": "Welcome to Skylands",
+      "description": "Getting Started",
+      "quests": [
+        {
+          "id": 0,
+          "x": 96,
+          "y": 0
+        },
+        {
+          "id": 1,
+          "x": 96,
+          "y": 64
+        },
+        {
+          "id": 2,
+          "x": 96,
+          "y": 104
+        },
+        {
+          "id": 3,
+          "x": 96,
+          "y": 152
+        },
+        {
+          "id": 4,
+          "x": 160,
+          "y": 0
+        },
+        {
+          "id": 6,
+          "x": 128,
+          "y": 0
+        },
+        {
+          "id": 7,
+          "x": 192,
+          "y": 0
+        },
+        {
+          "id": 14,
+          "x": 64,
+          "y": 0
+        },
+        {
+          "id": 15,
+          "x": 32,
+          "y": 0
+        },
+        {
+          "id": 16,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "id": 17,
+          "x": 128,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "name": "Welcome to the Nether",
+      "description": "No description",
+      "quests": []
+    },
+    {
+      "name": "Tech Quest Line",
+      "description": "No description",
+      "quests": []
+    },
+    {
+      "name": "Magic Quest Line",
+      "description": "No description",
+      "quests": []
+    }
+  ]
+}

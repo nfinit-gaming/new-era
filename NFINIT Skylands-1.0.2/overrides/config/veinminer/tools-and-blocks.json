@@ -1,0 +1,177 @@
+{
+  "tools": {
+    "axe": {
+      "name": "Axe",
+      "icon": "minecraft:diamond_axe",
+      "toollist": [
+        "minecraft:diamond_axe",
+        "minecraft:golden_axe",
+        "minecraft:iron_axe",
+        "minecraft:stone_axe",
+        "minecraft:wooden_axe"
+      ],
+      "blocklist": [
+        "evilcraft:undeadLog/0",
+        "integrateddynamics:menrilLeaves/0",
+        "integrateddynamics:menrilLog/0",
+        "minecraft:fence",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:log",
+        "minecraft:log2",
+        "tconstruct:slime_leaves",
+        "thaumcraft:log/0",
+        "thaumcraft:log/3"
+      ]
+    },
+    "crook": {
+      "name": "Crook",
+      "icon": "exnihilo2:crook_wood",
+      "toollist": [
+        "exnihilo2:crook_bone",
+        "exnihilo2:crook_wood"
+      ],
+      "blocklist": [
+        "evilcraft:undeadLeaves",
+        "extrafood:BananaLeaf",
+        "extrafood:OliveLeaf",
+        "integrateddynamics:menrilLeaves",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:tallgrass",
+        "tconstruct:slime_leaves",
+        "thaumcraft:leaf"
+      ]
+    },
+    "hammer": {
+      "name": "Hammer",
+      "icon": "exnihilo2:hammer_diamond",
+      "toollist": [
+        "exnihilo2:hammer_diamond",
+        "exnihilo2:hammer_gold",
+        "exnihilo2:hammer_iron",
+        "exnihilo2:hammer_stone",
+        "exnihilo2:hammer_wood"
+      ],
+      "blocklist": [
+        "exnihilo2:furnace_dirt",
+        "minecraft:cobblestone",
+        "minecraft:furnace",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:stone"
+      ]
+    },
+    "hoe": {
+      "name": "Hoe",
+      "icon": "minecraft:diamond_hoe",
+      "toollist": [
+        "minecraft:diamond_hoe",
+        "minecraft:golden_hoe",
+        "minecraft:iron_hoe",
+        "minecraft:stone_hoe",
+        "minecraft:wooden_hoe"
+      ],
+      "blocklist": [
+        "minecraft:carrots",
+        "minecraft:melon_block",
+        "minecraft:potatoes",
+        "minecraft:pumpkin",
+        "minecraft:wheat"
+      ]
+    },
+    "pickaxe": {
+      "name": "Pickaxe",
+      "icon": "minecraft:diamond_pickaxe",
+      "toollist": [
+        "minecraft:diamond_pickaxe",
+        "minecraft:golden_pickaxe",
+        "minecraft:iron_pickaxe",
+        "minecraft:stone_pickaxe",
+        "minecraft:wooden_pickaxe"
+      ],
+      "blocklist": [
+        "actuallyadditions:blockMisc/3",
+        "automation:ore/0",
+        "automation:ore/1",
+        "basemetals:adamantine_ore/0",
+        "basemetals:coldiron_ore/0",
+        "basemetals:copper_ore/0",
+        "basemetals:lead_ore/0",
+        "basemetals:mercury_ore/0",
+        "basemetals:nickel_ore/0",
+        "basemetals:silver_ore/0",
+        "basemetals:starsteel_ore/0",
+        "basemetals:tin_ore/0",
+        "basemetals:zinc_ore/0",
+        "electricadvantage:li_ore/0",
+        "electricadvantage:sulfur_ore/0",
+        "evilcraft:darkOre/0",
+        "minecraft:coal_ore",
+        "minecraft:cobblestone_wall",
+        "minecraft:diamond_ore",
+        "minecraft:emerald_ore",
+        "minecraft:glowstone",
+        "minecraft:gold_ore",
+        "minecraft:iron_ore",
+        "minecraft:lapis_ore",
+        "minecraft:lit_redstone_ore",
+        "minecraft:mossy_cobblestone",
+        "minecraft:nether_brick_fence",
+        "minecraft:obsidian",
+        "minecraft:quartz_ore",
+        "minecraft:redstone_ore",
+        "neotech:oreCopper/0",
+        "neotech:oreLead/0",
+        "neotech:oreSilver/0",
+        "neotech:oreTin/0",
+        "pocketnether:quartz_ore/0",
+        "routerreborn:rr_orecopper/0",
+        "tconstruct:ore/0",
+        "tconstruct:ore/1",
+        "thaumcraft:crystal_aer",
+        "thaumcraft:crystal_aqua",
+        "thaumcraft:crystal_ignis",
+        "thaumcraft:crystal_ordo",
+        "thaumcraft:crystal_perditio",
+        "thaumcraft:crystal_terra",
+        "thaumcraft:crystal_vitium",
+        "thaumcraft:ore_amber/0",
+        "thaumcraft:ore_cinnabar/0"
+      ]
+    },
+    "shears": {
+      "name": "Shears",
+      "icon": "minecraft:shears",
+      "toollist": [
+        "minecraft:shears"
+      ],
+      "blocklist": [
+        "integrateddynamics:menrilLeaves/0",
+        "minecraft:deadbush",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:tallgrass",
+        "minecraft:vine",
+        "minecraft:web",
+        "minecraft:wool",
+        "tconstruct:slime_leaves"
+      ]
+    },
+    "shovel": {
+      "name": "Shovel",
+      "icon": "minecraft:diamond_shovel",
+      "toollist": [
+        "minecraft:diamond_shovel",
+        "minecraft:golden_shovel",
+        "minecraft:iron_shovel",
+        "minecraft:stone_shovel",
+        "minecraft:wooden_shovel"
+      ],
+      "blocklist": [
+        "minecraft:clay",
+        "minecraft:gravel"
+      ]
+    }
+  }
+}

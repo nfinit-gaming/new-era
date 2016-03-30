@@ -1,0 +1,24 @@
+{
+  "partyList": [
+    {
+      "name": "Beta Testing",
+      "lifeShare": false,
+      "lootShare": false,
+      "lives": 1,
+      "members": [
+        {
+          "userID": "4fd9157d-96e5-4253-b259-ec1f6ed42de3",
+          "privilege": 2
+        },
+        {
+          "userID": "5af4ba16-5311-4ae3-9772-c6fb798ac2cf",
+          "privilege": 1
+        }
+      ]
+    }
+  ],
+  "nameCache": {
+    "4fd9157d-96e5-4253-b259-ec1f6ed42de3": "knoxhack",
+    "5af4ba16-5311-4ae3-9772-c6fb798ac2cf": "kasparsu"
+  }
+}
